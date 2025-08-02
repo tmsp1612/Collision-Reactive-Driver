@@ -1,5 +1,6 @@
 # Collision-Reactive-Driver
 A simple reactive obstacle avoidance algorithm for mobile robots using LiDAR data, implemented in ROS 2 and simulated with Gazebo.
+The proposed algorithm is based on a Simple FSM. 
 
 
 ## Instalation
