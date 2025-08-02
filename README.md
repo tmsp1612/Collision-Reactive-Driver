@@ -23,7 +23,7 @@ ros2 launch bumpandgo bump_and_go.launch.py
 ```
 
 ## Expriments
-The follow repo was tested with the robot on this [link]([https://github.com/tmsp1612/Velodyne_Simulator_Humble](https://github.com/tmsp1612/BCR_BOT_LIDAR))
+The follow repo was tested with the robot on this link: [here]([https://github.com/tmsp1612/Velodyne_Simulator_Humble](https://github.com/tmsp1612/BCR_BOT_LIDAR))
 
 
 
